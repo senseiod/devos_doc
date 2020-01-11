@@ -18,7 +18,7 @@
 
 **Qemu：**
 
-**`macOS上:brew install qemu`**
+`macOS上:brew install qemu`
 
 `apt源: sudo apt install qemu`
 
