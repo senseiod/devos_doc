@@ -1,2 +1,0 @@
-# UEFI的Hello World
-
